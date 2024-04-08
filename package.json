@@ -1,0 +1,18 @@
+{
+  "name": "shadman-typescript-45-assignments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Q1.js Q2.js Q3.js Q4.js Q5.js Q6.js Q7.js Q8.js Q9.js Q10.js Q11.js Q12.js Q13.js Q14.js Q15.js Q16.js Q17.js Q18.js Q19.js Q20.js Q21.js Q22.js Q23.js Q24.js Q25.js Q26.js Q27.js Q28.js Q29.js Q30.js Q31.js Q32.js Q33.js Q34.js Q35.js Q36.js Q37.js Q38.js Q39.js Q40.js Q41.js Q42.js Q43.js Q44.js Q45.js",
+  "bin": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^9.2.17"
+  },
+  "devDependencies": {
+    "@types/inquirer": "^9.0.7"
+  }
+}
